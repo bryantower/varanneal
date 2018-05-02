@@ -18,7 +18,7 @@ $ git pull
 $ git fetch --tags
 $ git checkout tags/<tagname>
 ```
-where the various tags can be found with `git tags --list`, or in "Branch" dropdown menu near the top of this page.
+where the various tags can be found with `git tag --list`, or in "Branch" dropdown menu near the top of this page.
 
 ### Install
 VarAnneal requires you have the following software installed on your computer:
